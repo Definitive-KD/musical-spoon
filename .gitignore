@@ -3,4 +3,6 @@
 authentication.js
 node_modules
 notes/
-**/*-todo.md  #this is a pattern being ignored by git. No matter where we create in the repo. it will be ignored.
+**/*-todo.md  
+
+#this is a pattern being ignored by git. No matter where we create in the repo. it will be ignored.
